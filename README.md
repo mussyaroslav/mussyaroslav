@@ -1,4 +1,4 @@
-## Hi there 👋
+## Aloha 👋
 
 ![gopher dancing](./dancing-gopher.gif)
 
